@@ -66,4 +66,4 @@ while True:
     # get latest message from bot
     messages = response["messages"]
     last_msg = messages[-1]
-    print("Bot: ",last_msg.content)
+    print("Bot: ",last_msg.content)    
