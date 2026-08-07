@@ -4,3 +4,5 @@ langchain_groq
 dotenv
 langchain_community
 ddgs
+langgraph-checkpoint-postgres
+psycopg[binary,pool]
